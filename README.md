@@ -54,7 +54,7 @@
 <br>
 <div align="center">
     
-[![GitHub Streak](https://streak-stats.demolab.com?user=KKrishna11&theme=github-dark&border_radius=5.2&date_format=j%20M%5B%20Y%5D&card_width=484&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KKrishna11&theme=github-dark&border_radius=1.2&date_format=j%20M%5B%20Y%5D&card_width=484&background=000000)](https://git.io/streak-stats)
 ![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=KKrishna11&show_icons=true&theme=chartreuse-dark)
 </div>
 
