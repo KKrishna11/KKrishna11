@@ -48,15 +48,29 @@
 <!--   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KKrishna11/KKrishna11/output/github-contribution-grid-snake.svg" /> -->
   <img src="https://raw.githubusercontent.com/KKrishna11/KKrishna11/output/snake.svg" alt="Snake animation" />
 
-
-
-
-
+  <br/><br/><br/>
+</div>
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=KKrishna11&theme=github-dark&border_radius=5.2&date_format=j%20M%5B%20Y%5D&card_width=484)](https://git.io/streak-stats)
 
-  <br/><br/><br/>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  
+    <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+
+<br/><br/>
+
+<hr/>
+
 <!--
 **KKrishna11/KKrishna11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
