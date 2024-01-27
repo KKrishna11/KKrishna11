@@ -48,6 +48,13 @@
 <!--   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KKrishna11/KKrishna11/output/github-contribution-grid-snake.svg" /> -->
   <img src="https://raw.githubusercontent.com/KKrishna11/KKrishna11/output/snake.svg" alt="Snake animation" />
 
+
+
+
+
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=KKrishna11&theme=github-dark&border_radius=5.2&date_format=j%20M%5B%20Y%5D&card_width=484)](https://git.io/streak-stats)
+
   <br/><br/><br/>
 </div>
 <!--
