@@ -65,6 +65,11 @@
 </div>
 <br/><br/>
 
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KKrishna11M&radius=4&area=false&hide_title=false&theme=dracula&hide_border=false" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KKrishna11&locale=en&hide_title=false&layout=compact&card_width=474&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
+
 <!--
 **KKrishna11/KKrishna11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
