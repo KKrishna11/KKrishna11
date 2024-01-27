@@ -53,7 +53,7 @@
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=KKrishna11&theme=github-dark&border_radius=5.2&date_format=j%20M%5B%20Y%5D&card_width=484)](https://git.io/streak-stats)
 
-
+[![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=KKrishna11)](https://github.com/anuraghazra/github-readme-stats)
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
