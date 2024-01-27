@@ -54,20 +54,22 @@
 <div align="center">
     
 [![GitHub Streak](https://streak-stats.demolab.com?user=KKrishna11&theme=github-dark&border_radius=5.2&date_format=j%20M%5B%20Y%5D&card_width=484&background=000000)](https://git.io/streak-stats)
+![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=KKrishna11&show_icons=true&theme=chartreuse-dark)
 </div>
 
+
     
-![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=KKrishna11&show_icons=true&theme=chartreuse-dark)
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  
-  <br/>
+
+
+
+
+<div align=center> 
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
 <br/><br/>
 
 <hr/>
