@@ -40,7 +40,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,javascript,nodejs,typescript,express,mongodb,mysql,kotlin"/> <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><br>    
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,nodejs,typescript,express,mongodb,mysql,kotlin,postman"/><br>    
 <img src="https://skillicons.dev/icons?i=html,css,scss,react,nextjs,bootstrap,tailwind,vscode,github,figma,git,eclipse,idea,netlify,prisma" />
 </div>
 
