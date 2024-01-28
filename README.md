@@ -31,7 +31,7 @@
     <a href="">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
-    <a>
+    <a href="https://codepen.io/krishna-k11">
     <img src="https://img.shields.io/badge/CodePen-E4405F?style=for-the-badge&logo=codepen&logoColor=white"/>        
     </a>
 
