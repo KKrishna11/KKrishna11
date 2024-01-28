@@ -70,7 +70,7 @@
 
 </div>
 
-<div align="center">\
+<div align="center">
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KKrishna11&layout=donut&theme=chartreuse-dark&lans_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
