@@ -6,7 +6,7 @@
 <h3 align="center">A passionate software developer from India 🇮🇳</h3>
 <br/>
 
-<div align="center">
+<div>
  
  🔭 I’m currently working on **MindGen-Ai**
  
