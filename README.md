@@ -57,16 +57,23 @@
 </div>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+
 <div align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=KKrishna11&theme=github-dark&border_radius=5.2&date_format=j%20M%5B%20Y%5D&card_width=460&background=000000)](https://git.io/streak-stats)
+
 </div>
 
 <div align="center>
+
 ![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=KKrishna11&show_icons=true&theme=chartreuse-dark)    
+
 </div>
 
-<div align="center">
+<div align="center">\
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KKrishna11&layout=donut&theme=chartreuse-dark&lans_count=20)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 <br/><br/>
 
